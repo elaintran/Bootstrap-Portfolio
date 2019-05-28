@@ -19,6 +19,11 @@ a:hover {
     background-color: white;
 }
 
+.navbar, .main-content {
+    margin-right: 11%;
+    margin-left: 11%;
+}
+
 .navbar-light .navbar-brand {
     background-color: #4aaaa5;
     color: white;
