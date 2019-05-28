@@ -23,7 +23,6 @@ a:hover {
 
 .nav-container {
     background-color: white;
-    border-bottom: 2px solid #cccccc;
 }
 
 .navbar-light .navbar-brand {
@@ -41,12 +40,10 @@ a:hover {
 
 .main-content {
     background-color: white;
-    border: 1px solid #dddddd;
 }
 
 .section-title {
     color: #4aaaa5;
-    border-bottom: 2px solid #dddddd;
 }
 
 .project-title {
@@ -67,7 +64,6 @@ a:hover {
 .submit {
     background-color: #4aaaa5;
     color: white;
-    border: 0px solid transparent;
 }
 
 img {
